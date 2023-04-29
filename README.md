@@ -1,1 +1,1 @@
-# Kakao-Goorm_SW_DEV_Lab
+# Kakao-Goorm_python_Lab
